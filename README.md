@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Sulabh312/Leetcode_questions/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/Sulabh312/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0905-sort-array-by-parity](https://github.com/Sulabh312/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Sulabh312/Leetcode_questions/tree/master/0056-merge-intervals) |
 | [0905-sort-array-by-parity](https://github.com/Sulabh312/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
 ## Math
 |  |
