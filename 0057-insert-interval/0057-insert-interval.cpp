@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
+        //----------------------------------------------------------------------------Brute Force----------------------------------------------------------------------//
         // intervals.push_back(newInterval);
         // vector<vector<int>> ans;
         // sort(intervals.begin(), intervals.end());
@@ -17,6 +18,7 @@ public:
         // }
         // ans.push_back({minVal, maxVal});
         // return ans;
+        //----------------------------------------------------------------------------Optimize-------------------------------------------------------------------------//
         int n = intervals.size();
         int i = 0;
         vector<vector<int>> ans;
