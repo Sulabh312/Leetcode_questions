@@ -33,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Sulabh312/Leetcode_questions/tree/master/0056-merge-intervals) |
 | [0905-sort-array-by-parity](https://github.com/Sulabh312/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
+| [3536-maximum-product-of-two-digits](https://github.com/Sulabh312/Leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Sulabh312/Leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
 | ------- |
