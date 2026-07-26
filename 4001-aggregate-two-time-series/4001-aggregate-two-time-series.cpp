@@ -15,7 +15,6 @@ public:
                 j++;
             }
             else {
-                cout << series1[i][0] << "\t" <<  series2[j][0]<< endl;
                 ans.push_back({series1[i][0], series1[i][1] + series2[j][1]});
                 i++;
                 j++;
