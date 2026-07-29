@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sulabh312/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Sulabh312/Leetcode_questions/tree/master/0217-contains-duplicate) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Sulabh312/Leetcode_questions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Union-Find
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sulabh312/Leetcode_questions/tree/master/0020-valid-parentheses) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Sulabh312/Leetcode_questions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
