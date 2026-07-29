@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Sulabh312/Leetcode_questions/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2568-minimum-impossible-or](https://github.com/Sulabh312/Leetcode_questions/tree/master/2568-minimum-impossible-or) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3697-compute-decimal-representation](https://github.com/Sulabh312/Leetcode_questions/tree/master/3697-compute-decimal-representation) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1486-xor-operation-in-an-array) |
+| [2568-minimum-impossible-or](https://github.com/Sulabh312/Leetcode_questions/tree/master/2568-minimum-impossible-or) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Sulabh312/Leetcode_questions/tree/master/2070-most-beautiful-item-for-each-query) |
+## Brainteaser
+|  |
+| ------- |
+| [2568-minimum-impossible-or](https://github.com/Sulabh312/Leetcode_questions/tree/master/2568-minimum-impossible-or) |
 <!---LeetCode Topics End-->
