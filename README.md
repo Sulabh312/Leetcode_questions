@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Sulabh312/Leetcode_questions/tree/master/0171-excel-sheet-column-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sulabh312/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sulabh312/Leetcode_questions/tree/master/0020-valid-parentheses) |
+| [0171-excel-sheet-column-number](https://github.com/Sulabh312/Leetcode_questions/tree/master/0171-excel-sheet-column-number) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Sulabh312/Leetcode_questions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
