@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Sulabh312/Leetcode_questions/tree/master/1260-shift-2d-grid) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Sulabh312/Leetcode_questions/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Sulabh312/Leetcode_questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sulabh312/Leetcode_questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Sulabh312/Leetcode_questions/tree/master/2070-most-beautiful-item-for-each-query) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Sulabh312/Leetcode_questions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Sulabh312/Leetcode_questions/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sulabh312/Leetcode_questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Sulabh312/Leetcode_questions/tree/master/2070-most-beautiful-item-for-each-query) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Sulabh312/Leetcode_questions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1122-relative-sort-array) |
 | [1603-design-parking-system](https://github.com/Sulabh312/Leetcode_questions/tree/master/1603-design-parking-system) |
+| [1833-maximum-ice-cream-bars](https://github.com/Sulabh312/Leetcode_questions/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sulabh312/Leetcode_questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Monotonic Stack
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Sulabh312/Leetcode_questions/tree/master/0561-array-partition) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Sulabh312/Leetcode_questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1833-maximum-ice-cream-bars](https://github.com/Sulabh312/Leetcode_questions/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sulabh312/Leetcode_questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
