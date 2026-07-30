@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Sulabh312/Leetcode_questions/tree/master/0057-insert-interval) |
 | [0128-longest-consecutive-sequence](https://github.com/Sulabh312/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Sulabh312/Leetcode_questions/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/Sulabh312/Leetcode_questions/tree/master/0274-h-index) |
 | [0503-next-greater-element-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sulabh312/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Sulabh312/Leetcode_questions/tree/master/0739-daily-temperatures) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Sulabh312/Leetcode_questions/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Sulabh312/Leetcode_questions/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/Sulabh312/Leetcode_questions/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sulabh312/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Sulabh312/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Sulabh312/Leetcode_questions/tree/master/0274-h-index) |
 | [1603-design-parking-system](https://github.com/Sulabh312/Leetcode_questions/tree/master/1603-design-parking-system) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Monotonic Stack
