@@ -1,18 +1,18 @@
 class ParkingSystem {
+    int spaces[4];
+
 public:
-    int slot[3];
-    ParkingSystem(int big, int medium, int small) {
-        slot[0] = big;
-        slot[1] = medium;
-        slot[2] = small;
+    ParkingSystem(int big, int medium, int small) : spaces{0, big, medium, small} {
     }
-    
-    bool addCar(int cT) {
-        if(slot[cT-1]){
-            slot[cT-1]--;
+
+    bool addCar(int carType) {
+        if (spaces[carType] == 0) {
+            return false;
+        } else {
+
+            spaces[carType]--;
             return true;
         }
-        else return false;
     }
 };
 
