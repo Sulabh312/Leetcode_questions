@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Sulabh312/Leetcode_questions/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/Sulabh312/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0986-interval-list-intersections](https://github.com/Sulabh312/Leetcode_questions/tree/master/0986-interval-list-intersections) |
+| [1122-relative-sort-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1122-relative-sort-array) |
 | [1260-shift-2d-grid](https://github.com/Sulabh312/Leetcode_questions/tree/master/1260-shift-2d-grid) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Sulabh312/Leetcode_questions/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sulabh312/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Sulabh312/Leetcode_questions/tree/master/0217-contains-duplicate) |
+| [1122-relative-sort-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1122-relative-sort-array) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Sulabh312/Leetcode_questions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Union-Find
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Sulabh312/Leetcode_questions/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sulabh312/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Sulabh312/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
+| [1122-relative-sort-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sulabh312/Leetcode_questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Sulabh312/Leetcode_questions/tree/master/2070-most-beautiful-item-for-each-query) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Sulabh312/Leetcode_questions/tree/master/0274-h-index) |
+| [1122-relative-sort-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1122-relative-sort-array) |
 | [1603-design-parking-system](https://github.com/Sulabh312/Leetcode_questions/tree/master/1603-design-parking-system) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sulabh312/Leetcode_questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
