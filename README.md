@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sulabh312/Leetcode_questions/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Sulabh312/Leetcode_questions/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sulabh312/Leetcode_questions/tree/master/0739-daily-temperatures) |
 ## Heap (Priority Queue)
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sulabh312/Leetcode_questions/tree/master/0225-implement-stack-using-queues) |
 | [1603-design-parking-system](https://github.com/Sulabh312/Leetcode_questions/tree/master/1603-design-parking-system) |
 ## Binary Indexed Tree
 |  |
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/0912-sort-an-array) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sulabh312/Leetcode_questions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
