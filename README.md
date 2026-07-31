@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sulabh312/Leetcode_questions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Sulabh312/Leetcode_questions/tree/master/0171-excel-sheet-column-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sulabh312/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Sulabh312/Leetcode_questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sulabh312/Leetcode_questions/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/Sulabh312/Leetcode_questions/tree/master/1260-shift-2d-grid) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Sulabh312/Leetcode_questions/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1603-design-parking-system](https://github.com/Sulabh312/Leetcode_questions/tree/master/1603-design-parking-system) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sulabh312/Leetcode_questions/tree/master/0067-add-binary) |
 | [1486-xor-operation-in-an-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1486-xor-operation-in-an-array) |
 | [2568-minimum-impossible-or](https://github.com/Sulabh312/Leetcode_questions/tree/master/2568-minimum-impossible-or) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sulabh312/Leetcode_questions/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Sulabh312/Leetcode_questions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Sulabh312/Leetcode_questions/tree/master/0171-excel-sheet-column-number) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Sulabh312/Leetcode_questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
