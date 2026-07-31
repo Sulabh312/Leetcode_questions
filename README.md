@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sulabh312/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Sulabh312/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [1122-relative-sort-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1122-relative-sort-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Sulabh312/Leetcode_questions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Union-Find
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Sulabh312/Leetcode_questions/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sulabh312/Leetcode_questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Sulabh312/Leetcode_questions/tree/master/2070-most-beautiful-item-for-each-query) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sulabh312/Leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Sulabh312/Leetcode_questions/tree/master/0171-excel-sheet-column-number) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Sulabh312/Leetcode_questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Sulabh312/Leetcode_questions/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Sulabh312/Leetcode_questions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/Sulabh312/Leetcode_questions/tree/master/1603-design-parking-system) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sulabh312/Leetcode_questions/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sulabh312/Leetcode_questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Monotonic Stack
 |  |
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sulabh312/Leetcode_questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
 | ------- |
