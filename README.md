@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Sulabh312/Leetcode_questions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Sulabh312/Leetcode_questions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Sulabh312/Leetcode_questions/tree/master/0171-excel-sheet-column-number) |
 | [0509-fibonacci-number](https://github.com/Sulabh312/Leetcode_questions/tree/master/0509-fibonacci-number) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Sulabh312/Leetcode_questions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Sulabh312/Leetcode_questions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Sulabh312/Leetcode_questions/tree/master/0509-fibonacci-number) |
 ## Minimax
