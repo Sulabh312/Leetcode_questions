@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sulabh312/Leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Sulabh312/Leetcode_questions/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## String
 |  |
