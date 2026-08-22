@@ -9,7 +9,6 @@ public:
             multi *= temp2;
             temp /= 10;
         }
-        // cout << sum << '\t' << multi <<'\t' << ((sum+multi)) ;
         return !(n % (sum+multi));
     }
 };
