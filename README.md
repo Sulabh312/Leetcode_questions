@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1409-queries-on-a-permutation-with-key](https://github.com/Sulabh312/Leetcode_questions/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sulabh312/Leetcode_questions/tree/master/1833-maximum-ice-cream-bars) |
+| [1936-add-minimum-number-of-rungs](https://github.com/Sulabh312/Leetcode_questions/tree/master/1936-add-minimum-number-of-rungs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sulabh312/Leetcode_questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Sulabh312/Leetcode_questions/tree/master/2070-most-beautiful-item-for-each-query) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Sulabh312/Leetcode_questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sulabh312/Leetcode_questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/Sulabh312/Leetcode_questions/tree/master/1927-sum-game) |
+| [1936-add-minimum-number-of-rungs](https://github.com/Sulabh312/Leetcode_questions/tree/master/1936-add-minimum-number-of-rungs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sulabh312/Leetcode_questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
