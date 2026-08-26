@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3618-split-array-by-prime-indices](https://github.com/Sulabh312/Leetcode_questions/tree/master/3618-split-array-by-prime-indices) |
 | [3697-compute-decimal-representation](https://github.com/Sulabh312/Leetcode_questions/tree/master/3697-compute-decimal-representation) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sulabh312/Leetcode_questions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1122-relative-sort-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Sulabh312/Leetcode_questions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sulabh312/Leetcode_questions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Union-Find
 |  |
 | ------- |
