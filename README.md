@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sulabh312/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Sulabh312/Leetcode_questions/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Sulabh312/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Sulabh312/Leetcode_questions/tree/master/0561-array-partition) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Sulabh312/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Sulabh312/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sulabh312/Leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Sulabh312/Leetcode_questions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/0496-next-greater-element-i) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/0142-linked-list-cycle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Sulabh312/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/Sulabh312/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0986-interval-list-intersections](https://github.com/Sulabh312/Leetcode_questions/tree/master/0986-interval-list-intersections) |
 ## Sorting
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sulabh312/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Sulabh312/Leetcode_questions/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Sulabh312/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/Sulabh312/Leetcode_questions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sulabh312/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Sulabh312/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Sulabh312/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Sulabh312/Leetcode_questions/tree/master/2070-most-beautiful-item-for-each-query) |
 ## Brainteaser
 |  |
