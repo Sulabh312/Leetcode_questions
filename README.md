@@ -311,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Sulabh312/Leetcode_questions/tree/master/0455-assign-cookies) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Sulabh312/Leetcode_questions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
