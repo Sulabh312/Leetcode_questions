@@ -10,8 +10,7 @@ public:
     }
     
     int get(int key) {
-        if(mp[key] != -1) return mp[key];
-        return -1;
+        return mp[key];
     }
     
     void remove(int key) {
