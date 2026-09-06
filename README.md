@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Sulabh312/Leetcode_questions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Sulabh312/Leetcode_questions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sulabh312/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/Sulabh312/Leetcode_questions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sulabh312/Leetcode_questions/tree/master/0706-design-hashmap) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Sulabh312/Leetcode_questions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Sulabh312/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Sulabh312/Leetcode_questions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Sulabh312/Leetcode_questions/tree/master/0605-can-place-flowers) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Sulabh312/Leetcode_questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sulabh312/Leetcode_questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/Sulabh312/Leetcode_questions/tree/master/1927-sum-game) |
