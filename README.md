@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Sulabh312/Leetcode_questions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sulabh312/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0705-design-hashset](https://github.com/Sulabh312/Leetcode_questions/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/Sulabh312/Leetcode_questions/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Sulabh312/Leetcode_questions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Sulabh312/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Sulabh312/Leetcode_questions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Sulabh312/Leetcode_questions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/0496-next-greater-element-i) |
+| [0705-design-hashset](https://github.com/Sulabh312/Leetcode_questions/tree/master/0705-design-hashset) |
 | [1122-relative-sort-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1122-relative-sort-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Sulabh312/Leetcode_questions/tree/master/3146-permutation-difference-between-two-strings) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sulabh312/Leetcode_questions/tree/master/0225-implement-stack-using-queues) |
+| [0705-design-hashset](https://github.com/Sulabh312/Leetcode_questions/tree/master/0705-design-hashset) |
 | [1603-design-parking-system](https://github.com/Sulabh312/Leetcode_questions/tree/master/1603-design-parking-system) |
 ## Binary Indexed Tree
 |  |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Sulabh312/Leetcode_questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sulabh312/Leetcode_questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sulabh312/Leetcode_questions/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/Sulabh312/Leetcode_questions/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -340,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/3904-smallest-stable-index-ii) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Sulabh312/Leetcode_questions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
