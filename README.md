@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0056-merge-intervals](https://github.com/Sulabh312/Leetcode_questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sulabh312/Leetcode_questions/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/Sulabh312/Leetcode_questions/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Sulabh312/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Sulabh312/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Sulabh312/Leetcode_questions/tree/master/0274-h-index) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sulabh312/Leetcode_questions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Sulabh312/Leetcode_questions/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/Sulabh312/Leetcode_questions/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1486-xor-operation-in-an-array) |
 | [2568-minimum-impossible-or](https://github.com/Sulabh312/Leetcode_questions/tree/master/2568-minimum-impossible-or) |
@@ -370,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/Sulabh312/Leetcode_questions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sulabh312/Leetcode_questions/tree/master/0706-design-hashmap) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sulabh312/Leetcode_questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
