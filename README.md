@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sulabh312/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sulabh312/Leetcode_questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/Sulabh312/Leetcode_questions/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/Sulabh312/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Sulabh312/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Sulabh312/Leetcode_questions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Sulabh312/Leetcode_questions/tree/master/0078-subsets) |
+| [0187-repeated-dna-sequences](https://github.com/Sulabh312/Leetcode_questions/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/Sulabh312/Leetcode_questions/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1486-xor-operation-in-an-array) |
 | [2568-minimum-impossible-or](https://github.com/Sulabh312/Leetcode_questions/tree/master/2568-minimum-impossible-or) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sulabh312/Leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Sulabh312/Leetcode_questions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Sulabh312/Leetcode_questions/tree/master/0171-excel-sheet-column-number) |
+| [0187-repeated-dna-sequences](https://github.com/Sulabh312/Leetcode_questions/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sulabh312/Leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Sulabh312/Leetcode_questions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Sulabh312/Leetcode_questions/tree/master/0409-longest-palindrome) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sulabh312/Leetcode_questions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sulabh312/Leetcode_questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Quicksort
@@ -373,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sulabh312/Leetcode_questions/tree/master/0187-repeated-dna-sequences) |
 | [0705-design-hashset](https://github.com/Sulabh312/Leetcode_questions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sulabh312/Leetcode_questions/tree/master/0706-design-hashmap) |
 ## Backtracking
@@ -383,4 +388,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sulabh312/Leetcode_questions/tree/master/0020-valid-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sulabh312/Leetcode_questions/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sulabh312/Leetcode_questions/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sulabh312/Leetcode_questions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
