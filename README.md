@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2070-most-beautiful-item-for-each-query](https://github.com/Sulabh312/Leetcode_questions/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2568-minimum-impossible-or](https://github.com/Sulabh312/Leetcode_questions/tree/master/2568-minimum-impossible-or) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sulabh312/Leetcode_questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sulabh312/Leetcode_questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Sulabh312/Leetcode_questions/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
