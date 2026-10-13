@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Sulabh312/Leetcode_questions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Sulabh312/Leetcode_questions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Sulabh312/Leetcode_questions/tree/master/0171-excel-sheet-column-number) |
+| [0342-power-of-four](https://github.com/Sulabh312/Leetcode_questions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Sulabh312/Leetcode_questions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sulabh312/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sulabh312/Leetcode_questions/tree/master/0877-stone-game) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sulabh312/Leetcode_questions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Sulabh312/Leetcode_questions/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/Sulabh312/Leetcode_questions/tree/master/0187-repeated-dna-sequences) |
+| [0342-power-of-four](https://github.com/Sulabh312/Leetcode_questions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Sulabh312/Leetcode_questions/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1486-xor-operation-in-an-array) |
 | [2568-minimum-impossible-or](https://github.com/Sulabh312/Leetcode_questions/tree/master/2568-minimum-impossible-or) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Sulabh312/Leetcode_questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sulabh312/Leetcode_questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sulabh312/Leetcode_questions/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Sulabh312/Leetcode_questions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Sulabh312/Leetcode_questions/tree/master/0509-fibonacci-number) |
 ## Minimax
 |  |
