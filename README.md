@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Sulabh312/Leetcode_questions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Sulabh312/Leetcode_questions/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Sulabh312/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
+| [0204-count-primes](https://github.com/Sulabh312/Leetcode_questions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Sulabh312/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/Sulabh312/Leetcode_questions/tree/master/0274-h-index) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Sulabh312/Leetcode_questions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Sulabh312/Leetcode_questions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Sulabh312/Leetcode_questions/tree/master/0171-excel-sheet-column-number) |
+| [0204-count-primes](https://github.com/Sulabh312/Leetcode_questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Sulabh312/Leetcode_questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sulabh312/Leetcode_questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sulabh312/Leetcode_questions/tree/master/0342-power-of-four) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sulabh312/Leetcode_questions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3618-split-array-by-prime-indices](https://github.com/Sulabh312/Leetcode_questions/tree/master/3618-split-array-by-prime-indices) |
 ## Matrix
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sulabh312/Leetcode_questions/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sulabh312/Leetcode_questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Sulabh312/Leetcode_questions/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -413,4 +417,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sulabh312/Leetcode_questions/tree/master/0187-repeated-dna-sequences) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sulabh312/Leetcode_questions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sulabh312/Leetcode_questions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sulabh312/Leetcode_questions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
