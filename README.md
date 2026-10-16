@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Sulabh312/Leetcode_questions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Sulabh312/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Sulabh312/Leetcode_questions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Sulabh312/Leetcode_questions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Sulabh312/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sulabh312/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Sulabh312/Leetcode_questions/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Sulabh312/Leetcode_questions/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/Sulabh312/Leetcode_questions/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
@@ -432,4 +435,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sulabh312/Leetcode_questions/tree/master/0204-count-primes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sulabh312/Leetcode_questions/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sulabh312/Leetcode_questions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
