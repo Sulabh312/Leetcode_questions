@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Sulabh312/Leetcode_questions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1122-relative-sort-array) |
 | [1260-shift-2d-grid](https://github.com/Sulabh312/Leetcode_questions/tree/master/1260-shift-2d-grid) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sulabh312/Leetcode_questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Sulabh312/Leetcode_questions/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sulabh312/Leetcode_questions/tree/master/1833-maximum-ice-cream-bars) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Sulabh312/Leetcode_questions/tree/master/0877-stone-game) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Sulabh312/Leetcode_questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sulabh312/Leetcode_questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sulabh312/Leetcode_questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1486-xor-operation-in-an-array) |
 | [1927-sum-game](https://github.com/Sulabh312/Leetcode_questions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sulabh312/Leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Sulabh312/Leetcode_questions/tree/master/0225-implement-stack-using-queues) |
 | [0705-design-hashset](https://github.com/Sulabh312/Leetcode_questions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sulabh312/Leetcode_questions/tree/master/0706-design-hashmap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sulabh312/Leetcode_questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1603-design-parking-system](https://github.com/Sulabh312/Leetcode_questions/tree/master/1603-design-parking-system) |
 ## Binary Indexed Tree
 |  |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sulabh312/Leetcode_questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/Sulabh312/Leetcode_questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Sulabh312/Leetcode_questions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Function
@@ -452,4 +456,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sulabh312/Leetcode_questions/tree/master/0200-number-of-islands) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sulabh312/Leetcode_questions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
